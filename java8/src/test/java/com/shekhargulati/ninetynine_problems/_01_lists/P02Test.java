@@ -2,6 +2,8 @@ package com.shekhargulati.ninetynine_problems._01_lists;
 
 import org.junit.Test;
 
+import com.shekhargulati.ninetynine_problems._01_lists.P02;
+
 import java.util.*;
 
 import static com.shekhargulati.ninetynine_problems._01_lists.CollectionUtils.linkedList;

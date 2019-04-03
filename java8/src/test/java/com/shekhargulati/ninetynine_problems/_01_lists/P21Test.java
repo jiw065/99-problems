@@ -2,6 +2,8 @@ package com.shekhargulati.ninetynine_problems._01_lists;
 
 import org.junit.Test;
 
+import com.shekhargulati.ninetynine_problems._01_lists.P21;
+
 import java.util.List;
 import java.util.stream.Stream;
 

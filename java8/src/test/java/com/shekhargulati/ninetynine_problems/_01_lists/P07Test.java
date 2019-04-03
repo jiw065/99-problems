@@ -2,6 +2,8 @@ package com.shekhargulati.ninetynine_problems._01_lists;
 
 import org.junit.Test;
 
+import com.shekhargulati.ninetynine_problems._01_lists.P07;
+
 import java.util.Collections;
 import java.util.List;
 

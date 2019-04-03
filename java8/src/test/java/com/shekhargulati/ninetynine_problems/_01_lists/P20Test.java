@@ -2,6 +2,8 @@ package com.shekhargulati.ninetynine_problems._01_lists;
 
 import org.junit.Test;
 
+import com.shekhargulati.ninetynine_problems._01_lists.P20;
+
 import java.util.Arrays;
 
 import static org.hamcrest.CoreMatchers.equalTo;
